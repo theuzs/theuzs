@@ -40,6 +40,7 @@ Controle de VOO - Fiori Freestyle
 Estou sempre aberto a novas oportunidades de colaboração e troca de conhecimento. Se você tem alguma pergunta, sugestão ou apenas quer bater um papo, sinta-se à vontade para me contatar:
 
 - Email: matheusfagundesmsf@gmail.com
+- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 - LinkedIn: https://www.linkedin.com/in/matheus-fagundes-14a533218/
 
 Vamos criar algo incrível juntos! 😊
