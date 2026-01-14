@@ -1,60 +1,70 @@
-# Bem-vindo ao Meu Perfil do GitHub! 👋
+# 👋 Bem-vindo ao meu GitHub!
 
-Olá! Sou Matheus Silva Fagundes, um desenvolvedor apaixonado por tecnologia e inovação. Este é o meu perfil no GitHub, onde compartilho meus projetos, aprendizados e experiências na área de desenvolvimento SAP ABAP e além. Aqui está um pouco mais sobre mim:
+Olá! Eu sou **Matheus Silva Fagundes**, Desenvolvedor **SAP ABAP & Fiori**, com experiência em projetos SAP de grande porte, atuando no desenvolvimento de soluções customizadas em **S/4HANA**, **SAP UI5** e **Fiori Elements**.  
+Aqui você encontrará projetos, estudos práticos e exemplos de aplicações focadas em **qualidade, performance e boas práticas SAP**.
 
-## Sobre Mim
+---
 
-Sou um desenvolvedor entusiasta, atualmente aprimorando minhas habilidades no desenvolvimento de sistemas no SENAI e acumulando experiência prática como Desenvolvedor SAP ABAP em uma consultoria de renome. Meu objetivo é sempre buscar novos desafios e aprender continuamente.
+## 🚀 Sobre mim
 
-## Habilidades e Conhecimentos
+Atuo profissionalmente como **Desenvolvedor SAP ABAP / Fiori**, com experiência em consultoria SAP e participação em projetos corporativos de alta complexidade, incluindo desenvolvimento de aplicações para o **módulo EHS** em ambientes produtivos.
 
-### SAP ABAP
+Tenho forte atuação tanto no **backend ABAP** quanto no **frontend Fiori/UI5**, desenvolvendo soluções que estendem o standard SAP para atender necessidades reais de negócio. Sou movido por aprendizado contínuo, código limpo e soluções bem arquitetadas.
 
-- **SmartForms**
-- **ALV (Listas de Visualização ALV)**
-- **Telas de usuário**
-- **RFCs (Remote Function Calls)**
-- **BAPIs (Business Application Programming Interfaces)**
-- **User Exits e Enhancement Points**
+---
 
-### Desenvolvimento de Aplicativos Fiori
+## 🧠 Principais Competências
 
-- **Fiori Elements**
-- **Fiori Freestyle**
-- **List Reports**
-- **Worklists**
+### 🔹 SAP ABAP & Backend
+- ABAP Clássico e Orientado a Objetos  
+- **SmartForms** e **Adobe Forms**  
+- **ALV Reports** (Clássico e OO)  
+- User Exits, Enhancements e BAdIs  
+- **BAPIs** e **RFCs**  
+- Integrações SAP ↔ SAP / SAP ↔ Externo  
 
-### Outras Competências
+### 🔹 SAP Fiori & UI5
+- **SAP UI5** (MVC, Controllers, Models)  
+- **Fiori Freestyle** e **Fiori Elements**  
+- List Reports, Worklists e Object Pages  
+- Extensões e Customizações Fiori  
+- Consumo de serviços **OData**  
 
-- **Modelagem de Dados:** CDS Views (Core Data Services)
-- **Integração de Dados:** SAP Gateway
-- **Desenvolvimento de Serviços OData:** Exposição de funcionalidades SAP para outras aplicações
+### 🔹 Modelagem & Integração
+- **CDS Views** (Standard e Custom)  
+- **SAP Gateway**  
+- Criação e manutenção de serviços OData  
+- Integração frontend ↔ backend ABAP  
 
-Estou sempre em busca de aprender coisas novas e explorar tecnologias emergentes. Este perfil reflete meu progresso e minhas aventuras no desenvolvimento de software.
+---
 
-## Projetos Destacados
+## 📂 Projetos em Destaque
 
-Aqui estão alguns dos meus projetos em destaque:
+- 📌 **Relatório de Impressão de Ordem de Vendas** — *Fiori Elements*  
+- 📌 **Worklist de Ordem de Vendas** — *Fiori Freestyle / UI5*  
+- 📌 **Aplicação de Controle de Voos** — *Fiori Freestyle*  
 
-- **Relatório de Impressão de Ordem de Vendas** - Fiori Elements
-- **Worklist de Ordem de Vendas** - Fiori Freestyle
-- **Controle de VOO** - Fiori Freestyle
+> Os projetos aqui publicados refletem estudos práticos, provas de conceito e aplicações inspiradas em cenários reais de negócio.
 
-## Badges
+---
 
-### Contato
+## 🏆 Certificações & Estudos
+- Cursos e treinamentos em **SAP Fiori**, **CDS Views** e **UI5**  
+- Formação técnica em **Desenvolvimento de Sistemas – SENAI**  
 
+---
+
+## 🤝 Contato & Networking
+
+### 📬 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusfagundesmsf@gmail.com)
 
-### Social
-
+### 🔗 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-fagundes-14a533218/)
 
-## Entre em Contato
+---
 
-Estou aberto a novas oportunidades de colaboração e troca de conhecimento. Se você tiver alguma pergunta, sugestão ou apenas quiser bater um papo, sinta-se à vontade para me contatar:
+## 💬 Vamos conversar?
 
-- **Email:** [matheusfagundesmsf@gmail.com](mailto:matheusfagundesmsf@gmail.com)
-- **LinkedIn:** [Matheus Fagundes](https://www.linkedin.com/in/matheus-fagundes-14a533218/)
-
-
+Estou aberto a **oportunidades profissionais**, **projetos SAP**, **troca de conhecimento** e colaborações técnicas.  
+Sinta-se à vontade para entrar em contato 🚀
